@@ -2,4 +2,5 @@ langchain
 langchain_community
 langchain-classic
 langchain-google-genai
+langchain-ollama
 python-dotenv
