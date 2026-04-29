@@ -3,4 +3,5 @@ langchain_community
 langchain-classic
 langchain-google-genai
 langchain-ollama
+langgraph
 python-dotenv
